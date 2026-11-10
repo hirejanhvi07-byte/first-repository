@@ -1,2 +1,3 @@
 # first-repository
-first-github-project 
+I'm a CSE student.
+this is my first repository. 
